@@ -1,4 +1,4 @@
-本项目是Fork的([sirpdboy](https://github.com/sirpdboy/luci-app-ddns-go.git)) ([ddns-go](https://github.com/jeessy2/ddns-go.git)) 在 OpenWrt 上的移植。
+本项目是Fork([sirpdboy](https://github.com/sirpdboy/luci-app-ddns-go.git))的 ([ddns-go](https://github.com/jeessy2/ddns-go.git)) 在 OpenWrt 上的移植。
 
 
 # luci-app-ddns-go
